@@ -4,19 +4,19 @@
     "url": "https://www.terrafrutis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.terrafrutis.com.ico",
     "slug": "terra-frutis",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 924,
-    "timeDay": 924,
-    "timeWeek": 924,
-    "timeMonth": 924,
-    "timeYear": 924,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2024-05-19": 0
+      "2024-05-19": 4
     }
   },
   {
