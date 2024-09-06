@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.terrafrutis.com.ico",
     "slug": "terra-frutis",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 976,
-    "timeDay": 1222,
-    "timeWeek": 976,
-    "timeMonth": 978,
-    "timeYear": 976,
+    "uptimeYear": "99.98%",
+    "time": 975,
+    "timeDay": 866,
+    "timeWeek": 974,
+    "timeMonth": 974,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2024-07-03": 39
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1194,
-    "timeDay": 1154,
-    "timeWeek": 1103,
-    "timeMonth": 1349,
-    "timeYear": 1194,
+    "time": 1190,
+    "timeDay": 776,
+    "timeWeek": 1099,
+    "timeMonth": 1345,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2024-07-03": 39
     }
