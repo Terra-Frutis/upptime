@@ -6,9 +6,9 @@
     "slug": "terra-frutis",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 992,
     "timeDay": 940,
@@ -16,7 +16,7 @@
     "timeMonth": 989,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2025-02-03": 1,
+      "2025-02-03": 9,
       "2024-07-03": 39
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://www.amazonfruitfestival.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amazonfruitfestival.com.ico",
     "slug": "amazon-fruit-festival",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1139,
-    "timeDay": 866,
-    "timeWeek": 972,
-    "timeMonth": 995,
-    "timeYear": 1139,
+    "time": 1137,
+    "timeDay": 833,
+    "timeWeek": 950,
+    "timeMonth": 989,
+    "timeYear": 1137,
     "dailyMinutesDown": {
-      "2025-02-03": 0,
+      "2025-02-03": 9,
       "2024-07-03": 39
     }
   }
